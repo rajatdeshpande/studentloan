@@ -80,7 +80,7 @@
         <ul class="loginbar pull-right">   
             <li><a href="page_faq.html">Help</a></li>  
             <li class="devider"></li>   
-			<li><a href="page_login.html" class="btn-u btn-u-blue">LOGIN</a></li>
+			<li><a href="index.php?r=site/login2" class="btn-u btn-u-blue">LOGIN</a></li>
         </ul>
     </div>      
 </div><!--/top-->
@@ -128,8 +128,8 @@
                             <i class="icon-angle-down"></i>
                         </a>
                         <ul class="dropdown-menu">
-							<li><a href="loan_application.html">Apply</a></li>
-							<li><a href="page_rates.html">Rates</a></li>
+							<li><a href="index.php?r=site/loanapply">Apply</a></li>
+							<li><a href="index.php?r=site/rates">Rates</a></li>
                             <!--<li><a href="page_about.html">About Us</a></li>
                             <li><a href="page_about1.html">About Us Option</a></li>
                             <li><a href="page_services.html">Services</a></li>

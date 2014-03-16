@@ -21,6 +21,21 @@ class SiteController extends Controller
 		);
 	}
 
+
+	
+	public function actionRates()
+	{
+		//render the rates page
+		$this->render('rates');
+	}
+	
+	public function actionLoanApply()
+	{
+		$this->render('loanapply');
+	}
+	
+	
+
 	/**
 	 * This is the default 'index' action that is invoked
 	 * when an action is not explicitly requested by users.
@@ -96,6 +111,11 @@ class SiteController extends Controller
 		}
 		// display the login form
 		$this->render('login',array('model'=>$model));
+	}
+	
+	public function actionLogin2()
+	{
+		$this->render('login2');
 	}
 
 	/**

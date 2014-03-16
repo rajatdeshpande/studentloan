@@ -141,3 +141,51 @@ Stack trace:
 #8 /Applications/XAMPP/xamppfiles/htdocs/studentloan/index.php(13): CWebApplication->run()
 REQUEST_URI=/studentloan/index.php?r=gii/controller/index
 in /Applications/XAMPP/xamppfiles/htdocs/studentloan/index.php (13)
+2014/03/16 11:11:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "rates".' in /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php(141): CWebApplication->runController('rates')
+#1 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/studentloan/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/studentloan/index.php?r=rates
+---
+2014/03/16 11:18:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "rates".' in /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php(141): CWebApplication->runController('rates')
+#1 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/studentloan/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/studentloan/index.php?r=rates
+---
+2014/03/16 18:24:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Rates".' in /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php(141): CWebApplication->runController('Rates')
+#1 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/studentloan/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/studentloan/index.php?r=Rates
+---
+2014/03/16 18:25:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Rates".' in /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php(141): CWebApplication->runController('Rates')
+#1 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/studentloan/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/studentloan/index.php?r=Rates
+---
+2014/03/16 18:31:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "Rates".' in /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php(141): CWebApplication->runController('Rates')
+#1 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/studentloan/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/studentloan/index.php?r=Rates
+---
+2014/03/16 18:31:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "rates".' in /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/web/CWebApplication.php(141): CWebApplication->runController('rates')
+#1 /Applications/XAMPP/xamppfiles/htdocs/studentloan/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/studentloan/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/studentloan/index.php?r=rates
+---
